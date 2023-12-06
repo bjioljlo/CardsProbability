@@ -1,0 +1,14 @@
+F:\C#_Projects\CardsProbability\CardsProbability\bin\Debug\CardsProbability.exe.config
+F:\C#_Projects\CardsProbability\CardsProbability\bin\Debug\CardsProbability.exe
+F:\C#_Projects\CardsProbability\CardsProbability\bin\Debug\CardsProbability.pdb
+F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.csproj.AssemblyReference.cache
+F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.Form1.resources
+F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.Properties.Resources.resources
+F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.csproj.GenerateResource.cache
+F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.csproj.CoreCompileInputs.cache
+F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.exe
+F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.pdb
+F:\C#_Projects\CardsProbability\CardsProbability\bin\Debug\CardsProbability.exe.manifest
+F:\C#_Projects\CardsProbability\CardsProbability\bin\Debug\CardsProbability.application
+F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.exe.manifest
+F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.application
