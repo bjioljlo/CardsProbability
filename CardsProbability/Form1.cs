@@ -12,6 +12,7 @@ namespace CardsProbability
 {
     public partial class Form1 : Form
     {
+        
         public Form1()
         {
             InitializeComponent();
@@ -27,10 +28,15 @@ namespace CardsProbability
             int markedCards = int.Parse(textBox2.Text);
             int drawCount = int.Parse(textBox3.Text);
             int markedCount = int.Parse(textBox4.Text);
+            label5.Text = "";
+            for (int i = 0; i <= markedCount; i++)
+            {
+                double probability = GetAtLeastOneMarkedCardProbability(totalCards, markedCards, drawCount, i);
 
-            double probability = GetAtLeastOneMarkedCardProbability(totalCards, markedCards, drawCount, markedCount);
+                label5.Text = label5.Text + "抽出 " + drawCount + " 張牌中有" + i + "張記號的機率為：" + probability.ToString("P") + "\n";
+            }
 
-            label5.Text = "抽出 " + drawCount + " 張牌中有" + markedCount + "張記號的機率為：" + probability.ToString("P");
+            
         }
 
         static double GetAtLeastOneMarkedCardProbability(int totalCards, int markedCards, int drawCount, int markedCount)

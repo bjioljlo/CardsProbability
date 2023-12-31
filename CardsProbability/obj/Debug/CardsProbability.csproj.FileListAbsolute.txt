@@ -12,3 +12,17 @@ F:\C#_Projects\CardsProbability\CardsProbability\bin\Debug\CardsProbability.exe.
 F:\C#_Projects\CardsProbability\CardsProbability\bin\Debug\CardsProbability.application
 F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.exe.manifest
 F:\C#_Projects\CardsProbability\CardsProbability\obj\Debug\CardsProbability.application
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\bin\Debug\CardsProbability.exe.config
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\bin\Debug\CardsProbability.exe.manifest
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\bin\Debug\CardsProbability.application
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\bin\Debug\CardsProbability.exe
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\bin\Debug\CardsProbability.pdb
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\obj\Debug\CardsProbability.csproj.AssemblyReference.cache
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\obj\Debug\CardsProbability.Form1.resources
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\obj\Debug\CardsProbability.Properties.Resources.resources
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\obj\Debug\CardsProbability.csproj.GenerateResource.cache
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\obj\Debug\CardsProbability.csproj.CoreCompileInputs.cache
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\obj\Debug\CardsProbability.exe.manifest
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\obj\Debug\CardsProbability.application
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\obj\Debug\CardsProbability.exe
+D:\GITHUB\CardsProbability\CardsProbability\CardsProbability\obj\Debug\CardsProbability.pdb
