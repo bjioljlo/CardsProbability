@@ -16,7 +16,8 @@ namespace CardsProbability
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            IController controller = new TController(new Form1());
+            Application.Run(controller.GetForm());
         }
     }
 }
